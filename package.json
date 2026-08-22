@@ -1,0 +1,10 @@
+{
+  "name": "aizazali-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependencies used by the Netlify serverless functions (e.g. /netlify/functions/analytics.js).",
+  "dependencies": {
+    "@google-analytics/data": "^4.7.0",
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}
